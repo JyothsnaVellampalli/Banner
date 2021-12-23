@@ -1,0 +1,28 @@
+.container{
+    width:550px;
+    background-color:rgb(56, 56, 56);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#risk{
+    margin:40px;
+}
+#grid1{
+    margin: 40px;
+}
+#two{
+    margin: 40px; 
+}
+#four{
+    margin: 40px;  
+}
+#five{
+    margin: 40px; 
+}
+#three{
+   padding-left: 10px;
+}
+#six{
+    margin: 40px; 
+     
+}
